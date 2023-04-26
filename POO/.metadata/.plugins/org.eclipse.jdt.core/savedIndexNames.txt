@@ -1,0 +1,4 @@
+INDEX VERSION 1.131+T:\Publica\Técnico em Informática 01-2022\UC12 - Executar codificação-manutenção-Para-Desktop\POO\.metadata\.plugins\org.eclipse.jdt.core
+4163541083.index
+1865797976.index
+1535177651.index
